@@ -1,5 +1,3 @@
-- **Link to the dashboard:https://www.novypro.com/project/covid-data-analysis-2**
-- In this project, we analyzed Covid-19 dataset in **SQL Server** to extract valuable insights.
-- We focused on crucial aspects such as global numbers, determining the country with the highest death rate, pinpointing the nation with the highest infection rate, and analyzing the correlation between total cases and population size.
-- To enhance our findings, we utilized **Power BI for data visualization**.
-- This involved creating a detailed report that offers a comprehensive overview of the dataset's key metrics and trends, providing valuable insights into the dynamics of the Covid-19 scenario.
+- In our project, we worked with a housing dataset and employed **SQL** for data cleaning to prepare it for further analysis.
+- This encompassed tasks such as addressing missing values by filling them, eliminating duplicate entries, removing redundant columns, and implementing other necessary data cleaning processes.
+- The goal was to enhance the dataset's quality and usability, ensuring it is well-optimized for subsequent analytical tasks.
