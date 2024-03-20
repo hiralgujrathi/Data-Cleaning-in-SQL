@@ -1,3 +1,1 @@
-- In our project, we worked with a housing dataset and employed **SQL** for data cleaning to prepare it for further analysis.
-- This encompassed tasks such as addressing missing values by filling them, eliminating duplicate entries, removing redundant columns, and implementing other necessary data cleaning processes.
-- The goal was to enhance the dataset's quality and usability, ensuring it is well-optimized for subsequent analytical tasks.
+In our project, we utilized a housing dataset and conducted data cleaning using SQL.
